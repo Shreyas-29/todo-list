@@ -1,0 +1,18 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+  }
+  // "eslint.alwaysShowStatus": true
+}
