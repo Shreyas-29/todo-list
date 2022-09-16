@@ -15,5 +15,6 @@ Concepts used in this project:
 2. Redux
 3. React Hot Toast
 4. Framer Motion
+5. SCSS / CSS
 
 THANK YOU!!
