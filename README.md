@@ -1,38 +1,19 @@
-# React Todo App.
+WELCOME TO MY NEW BRAND PROJECT OF TODO LIST APP
 
-SVG for CheckBox: [mentioned in the video]
+![banner](https://user-images.githubusercontent.com/111555846/190701451-470099a5-cd0e-40b2-89b7-5ecd6122f064.png)
 
-```html
-<svg viewBox="0 0 53 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-	<path
-		fill="none"
-		strokeMiterlimit="10"
-		strokeWidth="6"
-		d="M1.5 22L16 36.5L51.5 1"
-		strokeLinejoin="round"
-		strokeLinecap="round"
-	></path>
-</svg>
-```
+REACT TODO APP
 
-## Starter files
+Live Demo: https://todo-app-shreyas.netlify.app/
 
-You can find all the starter files in `starter-files` branch. You can to go to the `starter-files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter-files` branch.
+Please give 5 ⭐ rating to my project.
+Made by [Shreyas](https://github.com/Shreyas-29)
 
-## Getting Started
+Concepts used in this project:
 
-The recommended way to get started with the project is Follow the `YouTube tutorial`. You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
+1. React
+2. Redux
+3. React Hot Toast
+4. Framer Motion
 
-After getting the starter files, you need to go the file directory and run
-
-```shell
-npm install
-```
-
-and after that start the dev server.
-
-```shell
-npm start
-```
-
-Happy Coding! 🚀
+THANK YOU!!
